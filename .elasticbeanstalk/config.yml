@@ -1,0 +1,10 @@
+branch-defaults:
+  master:
+    environment: null
+global:
+  application_name: ###
+  default_ec2_keyname: ###
+  default_platform: 64bit Amazon Linux 2015.09 v2.0.4 running PHP 5.6
+  default_region: ###
+  profile: eb-cli
+  sc: git

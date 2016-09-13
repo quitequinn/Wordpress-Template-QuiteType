@@ -1,0 +1,21 @@
+/*
+Theme Name: Wordpress_Template_QuiteType
+
+Stylesheet for customizing login page.
+
+*/
+
+
+.login h1 a, .login h1 span {
+	display: inline-block; 
+	margin: 0;
+    font-size: 20px;
+    line-height: 1.3em;
+    background-size: contain;
+	width: 50%;
+	margin-bottom: 1em;
+}
+.login h1 a.quite-type-logo {
+	background-image: url(qt-logo.png);
+	background-image: none, url(qt-logo.svg);
+}

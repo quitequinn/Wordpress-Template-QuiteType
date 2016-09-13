@@ -1,0 +1,6 @@
+[global]
+ApplicationName=###
+AwsCredentialFile=.elasticbeanstalk/aws_credentials
+DevToolsEndpoint=git.elasticbeanstalk.us-west-2.amazonaws.com
+EnvironmentName=###
+Region=###
