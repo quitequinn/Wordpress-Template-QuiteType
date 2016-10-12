@@ -16,7 +16,7 @@ This is a boiler plate of sorts that includes Wordpress, AWS Elatic Beanstalk, A
 - [SVGs](#svgs)
 - [Images and Cursors](#images-and-cursors)
 - [Static Files](#static-files)
-- [Usefull utilities](#usefull-utilities)
+- [Usefull Utilities](#usefull-utilities)
 
 
 
@@ -140,7 +140,7 @@ Static files are placed in WP_THEME/src/static.
 
 
 
-## Usefull utilities
+## Usefull Utilities
 
 
 ### SSH into EC2 instance
